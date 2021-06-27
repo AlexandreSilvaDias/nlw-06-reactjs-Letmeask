@@ -1,10 +1,10 @@
-# nlw-06-reactjs-Letmeask
-Letmeask é um projeto desenvolvido durante o evento NLW/Together realizado pela Rocketseat, utilizando as tecnologias de React, Firebase, TypeScript, Sass.
+### nlw-06-reactjs-Letmeask 👋
 
 <img src="/src/assets/images/readme-img.png">
 
-### nlw-06-reactjs-Letmeask 👋
 Letmeask é um projeto desenvolvido durante o evento NLW/Together realizado pela Rocketseat, utilizando as tecnologias de React, Firebase, TypeScript, Sass.
+
+Projeto ainda em desenvolvimento e aperfeiçoamento.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=AlexandreSilvaDias)
 
